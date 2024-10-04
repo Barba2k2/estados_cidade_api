@@ -7,7 +7,9 @@
         {
             "name": "estados_cidade_api",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "bin/server.dart",
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
